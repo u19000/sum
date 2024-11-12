@@ -1,0 +1,9 @@
+subject important in devOps: 
+virtualization 
+docker 
+Kubernetes
+CI/CD 
+
+
+
+Network operation (devops ) development 
